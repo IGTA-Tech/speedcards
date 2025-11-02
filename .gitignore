@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+temp_auto_push.bat
+*.log
+.env
+.env.local
+.gitignore
+temp_interactive_push.bat
